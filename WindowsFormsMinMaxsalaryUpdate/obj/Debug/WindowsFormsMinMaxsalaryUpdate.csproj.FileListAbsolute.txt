@@ -1,0 +1,9 @@
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\WindowsFormsMinMaxsalaryUpdate\bin\Debug\WindowsFormsMinMaxsalaryUpdate.exe.config
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\WindowsFormsMinMaxsalaryUpdate\bin\Debug\WindowsFormsMinMaxsalaryUpdate.exe
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\WindowsFormsMinMaxsalaryUpdate\bin\Debug\WindowsFormsMinMaxsalaryUpdate.pdb
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\WindowsFormsMinMaxsalaryUpdate\obj\Debug\WindowsFormsMinMaxsalaryUpdate.Properties.Resources.resources
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\WindowsFormsMinMaxsalaryUpdate\obj\Debug\WindowsFormsMinMaxsalaryUpdate.UpdateEmployyesSalary.resources
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\WindowsFormsMinMaxsalaryUpdate\obj\Debug\WindowsFormsMinMaxsalaryUpdate.csproj.GenerateResource.Cache
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\WindowsFormsMinMaxsalaryUpdate\obj\Debug\WindowsFormsMinMaxsalaryUpdate.exe
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\WindowsFormsMinMaxsalaryUpdate\obj\Debug\WindowsFormsMinMaxsalaryUpdate.pdb
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\WindowsFormsMinMaxsalaryUpdate\obj\Debug\WindowsFormsMinMaxsalaryUpdate.UpdateSalary.resources

@@ -1,0 +1,6 @@
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb

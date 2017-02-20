@@ -1,0 +1,8 @@
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\Streams\bin\Debug\Streams.exe.config
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\Streams\bin\Debug\Streams.exe
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\Streams\bin\Debug\Streams.pdb
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\Streams\obj\Debug\Streams.Form1.resources
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\Streams\obj\Debug\Streams.Properties.Resources.resources
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\Streams\obj\Debug\Streams.csproj.GenerateResource.Cache
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\Streams\obj\Debug\Streams.exe
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\Streams\obj\Debug\Streams.pdb

@@ -1,0 +1,6 @@
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\ConnectionToDB\bin\Debug\ConnectionToDB.exe.config
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\ConnectionToDB\bin\Debug\ConnectionToDB.exe
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\ConnectionToDB\bin\Debug\ConnectionToDB.pdb
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\ConnectionToDB\obj\Debug\ConnectionToDB.csprojResolveAssemblyReference.cache
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\ConnectionToDB\obj\Debug\ConnectionToDB.exe
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\ConnectionToDB\obj\Debug\ConnectionToDB.pdb

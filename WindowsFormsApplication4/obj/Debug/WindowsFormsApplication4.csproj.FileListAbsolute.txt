@@ -1,0 +1,16 @@
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Addresses.resources
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Towns.resources
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Departments.resources
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Employees.resources
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Projects.resources
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Remove.removeProjects.resources
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Remove.RemoveTowns.resources

@@ -1,0 +1,9 @@
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\Streams.Test\bin\Debug\Streams.Test.exe.config
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\Streams.Test\bin\Debug\Streams.Test.exe
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\Streams.Test\bin\Debug\Streams.Test.pdb
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\Streams.Test\obj\Debug\Streams.Test.Form1.resources
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\Streams.Test\obj\Debug\Streams.Test.Properties.Resources.resources
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\Streams.Test\obj\Debug\Streams.Test.csproj.GenerateResource.Cache
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\Streams.Test\obj\Debug\Streams.Test.exe
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\Streams.Test\obj\Debug\Streams.Test.pdb
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\Streams.Test\obj\Debug\Streams.Test.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\WindowsFormsApplication5Radiobutton\bin\Debug\WindowsFormsApplication5Radiobutton.exe.config
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\WindowsFormsApplication5Radiobutton\bin\Debug\WindowsFormsApplication5Radiobutton.exe
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\WindowsFormsApplication5Radiobutton\bin\Debug\WindowsFormsApplication5Radiobutton.pdb
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\WindowsFormsApplication5Radiobutton\obj\Debug\WindowsFormsApplication5Radiobutton.AddEmployee.resources
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\WindowsFormsApplication5Radiobutton\obj\Debug\WindowsFormsApplication5Radiobutton.Properties.Resources.resources
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\WindowsFormsApplication5Radiobutton\obj\Debug\WindowsFormsApplication5Radiobutton.ShowEmployeeInformation.resources
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\WindowsFormsApplication5Radiobutton\obj\Debug\WindowsFormsApplication5Radiobutton.csproj.GenerateResource.Cache
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\WindowsFormsApplication5Radiobutton\obj\Debug\WindowsFormsApplication5Radiobutton.exe
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\WindowsFormsApplication5Radiobutton\obj\Debug\WindowsFormsApplication5Radiobutton.pdb

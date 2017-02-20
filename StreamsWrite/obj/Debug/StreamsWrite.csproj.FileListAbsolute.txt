@@ -1,0 +1,12 @@
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\StreamsWrite\bin\Debug\StreamsWrite.exe.config
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\StreamsWrite\bin\Debug\StreamsWrite.exe
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\StreamsWrite\bin\Debug\StreamsWrite.pdb
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\StreamsWrite\obj\Debug\StreamsWrite.csprojResolveAssemblyReference.cache
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\StreamsWrite\obj\Debug\StreamsWrite.Form1.resources
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\StreamsWrite\obj\Debug\StreamsWrite.Properties.Resources.resources
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\StreamsWrite\obj\Debug\StreamsWrite.csproj.GenerateResource.Cache
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\StreamsWrite\obj\Debug\StreamsWrite.exe
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\StreamsWrite\obj\Debug\StreamsWrite.pdb
+M:\proekti\c#\DBadvanced\ConnectingToDB\StreamsWrite\bin\Debug\StreamsWrite.exe.config
+M:\proekti\c#\DBadvanced\ConnectingToDB\StreamsWrite\obj\Debug\StreamsWrite.exe
+M:\proekti\c#\DBadvanced\ConnectingToDB\StreamsWrite\obj\Debug\StreamsWrite.pdb

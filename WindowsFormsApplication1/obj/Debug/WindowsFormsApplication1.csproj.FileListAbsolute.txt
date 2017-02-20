@@ -1,0 +1,8 @@
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Connect.resources
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

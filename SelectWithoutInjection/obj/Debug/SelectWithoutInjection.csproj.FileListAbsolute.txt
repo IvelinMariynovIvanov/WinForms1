@@ -1,0 +1,5 @@
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\SelectWithoutInjection\bin\Debug\SelectWithoutInjection.exe.config
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\SelectWithoutInjection\bin\Debug\SelectWithoutInjection.exe
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\SelectWithoutInjection\bin\Debug\SelectWithoutInjection.pdb
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\SelectWithoutInjection\obj\Debug\SelectWithoutInjection.exe
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\SelectWithoutInjection\obj\Debug\SelectWithoutInjection.pdb

@@ -1,0 +1,5 @@
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\SimpleSelection\bin\Debug\SimpleSelection.exe.config
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\SimpleSelection\bin\Debug\SimpleSelection.exe
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\SimpleSelection\bin\Debug\SimpleSelection.pdb
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\SimpleSelection\obj\Debug\SimpleSelection.exe
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\SimpleSelection\obj\Debug\SimpleSelection.pdb

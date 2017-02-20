@@ -1,0 +1,9 @@
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\IncreeseSalaryByDepartment\bin\Debug\IncreeseSalaryByDepartment.exe.config
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\IncreeseSalaryByDepartment\bin\Debug\IncreeseSalaryByDepartment.exe
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\IncreeseSalaryByDepartment\bin\Debug\IncreeseSalaryByDepartment.pdb
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\IncreeseSalaryByDepartment\obj\Debug\IncreeseSalaryByDepartment.Form1.resources
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\IncreeseSalaryByDepartment\obj\Debug\IncreeseSalaryByDepartment.Properties.Resources.resources
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\IncreeseSalaryByDepartment\obj\Debug\IncreeseSalaryByDepartment.csproj.GenerateResource.Cache
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\IncreeseSalaryByDepartment\obj\Debug\IncreeseSalaryByDepartment.exe
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\IncreeseSalaryByDepartment\obj\Debug\IncreeseSalaryByDepartment.pdb
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\IncreeseSalaryByDepartment\obj\Debug\IncreeseSalaryByDepartment.Form2.resources

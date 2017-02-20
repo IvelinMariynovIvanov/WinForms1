@@ -1,0 +1,5 @@
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\ConnectingToDB\bin\Debug\ConnectingToDB.exe.config
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\ConnectingToDB\obj\Debug\ConnectingToDB.exe
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\ConnectingToDB\obj\Debug\ConnectingToDB.pdb
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\ConnectingToDB\bin\Debug\ConnectingToDB.exe
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\DBadvanced\ConnectingToDB\ConnectingToDB\bin\Debug\ConnectingToDB.pdb
